@@ -10,14 +10,48 @@
 
 ## **📌 Overview**
 **OmniSkill AI** is a **scalable, domain-agnostic framework** designed to help individuals and teams:
-✅ **Identify** skills, projects, and assets across domains (AI, product, marketing, research, etc.).
-✅ **Assess** proficiency levels (Novice → Expert) with domain-specific criteria.
-✅ **Develop** personalized roadmaps for upskilling, reskilling, or deploying skills.
-✅ **Validate** and **prioritize** focus areas with cross-domain transferability.
+- ✅ **Identify** skills, projects, and assets across domains (AI, product, marketing, research, etc.).
+- ✅ **Assess** proficiency levels (Novice → Expert) with domain-specific criteria.
+- ✅ **Develop** personalized roadmaps for upskilling, reskilling, or deploying skills.
+- ✅ **Validate** and **prioritize** focus areas with cross-domain transferability.
 
 Built for **AI engineers, product managers, marketers, researchers, and business strategists**, OmniSkill AI provides **templates, tools, and workflows** to accelerate growth in any field.
 
----
+```
+OmniSkill-AI/
+│
+├── README.md                  # Main README (provided above)
+├── LICENSE                     # MIT License
+├── CONTRIBUTING.md             # Contribution guidelines
+│
+├── matrices/                   # Skill matrices by domain
+│   ├── ai_ml_skills.md
+│   ├── product_dev_skills.md
+│   ├── marketing_skills.md
+│   ├── research_skills.md
+│   └── transferability.md
+│
+├── templates/                  # Assessment and inventory templates
+│   ├── self_assessment.md
+│   ├── peer_review.md
+│   └── project_inventory.md
+│
+├── guides/                     # Tool-specific workflows
+│   ├── chatgpt_prototyping.md
+│   ├── claudai_workflows.md
+│   └── google_ai_studio.md
+│
+├── examples/                   # Sample outputs
+│   ├── ai_product_roadmap.md
+│   └── marketing_skill_assessment.md
+│
+├── scripts/                    # Automation scripts
+│   ├── assess_skills.py
+│   └── generate_roadmap.py
+│
+└── releases/                   # Release notes (optional)
+    └── v1.0.0.md
+```
 
 ## **🌟 Key Features**
 
@@ -118,4 +152,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - Inspired by frameworks from **Google, NIST, and McKinsey**.
 - Built with love by [Transparency-X](https://github.com/Transparency-X).
 - Special thanks to our early adopters and contributors!
-
